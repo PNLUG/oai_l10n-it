@@ -1,2 +1,2 @@
-# oai-l10n_it
+# oai_l10n-it
 Odoo Addons Improvement - Italian localization
